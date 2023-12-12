@@ -1,5 +1,3 @@
-#
-Sure, here's a simple README file you can use for your project:
 
 Login Form with Video Background
 This project consists of a login form featuring a video background and styled with CSS for an appealing visual interface.
